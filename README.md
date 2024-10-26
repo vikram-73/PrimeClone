@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 In this project, let's build a **Prime Video** by applying the concepts we have learned till now.
 
 ### Refer to the video below:
@@ -163,3 +164,7 @@ Use these files to complete the implementation:
 > - Don't change the component folder names as those are the files being imported into the tests.
 > - **Do not remove the pre-filled code**
 > - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
+=======
+# PrimeClone
+>>>>>>> 615f2b97bcc6bb80a06f1ffceca30f2d7355beb4
+# PrimeClone
